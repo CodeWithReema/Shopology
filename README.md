@@ -1,0 +1,1 @@
+# Shopology_Ecommerce_DjangoApp
