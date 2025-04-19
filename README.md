@@ -54,18 +54,6 @@ Follow these steps to get Shopology running locally on your machine.
 6. **Open in browser**
    Visit `http://127.0.0.1:8000/` in your web browser.
 
-## Project Structure
-```
-shopology/
-├── accounts/           # User authentication and profiles
-├── marketplace/        # Buying, selling, item listings
-├── messages/           # User messaging system
-├── templates/          # HTML templates
-├── static/             # CSS, JavaScript, images
-├── manage.py           # Django management script
-└── requirements.txt    # Python dependencies
-```
-
 ## Contributing
 Feel free to fork the repository and submit pull requests. Issues and feature requests are welcome!
 
